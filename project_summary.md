@@ -1,4 +1,4 @@
-# Project Title
+# PALIMPSEST
 Insert the name of your project
 
 ## Authors
