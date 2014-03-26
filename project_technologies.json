@@ -4,13 +4,26 @@
             "insert apis"
         ],
         "platforms": [
-            "insert platforms"
+            "Arduino",
+            "windows"
         ],
         "toolkits": [
-            "insert toolkits"
+            "OpenCV",
+            "OpenGL",
+            "GSVideo",
+            "FaceDetection"
+            
         ]
     },
     "themes": [
-        "insert themes"
+        "Interactivity", 
+"Books", 
+"Palimpsest", 
+"Footprint ",
+"Memory",
+"Transformation",
+"Reading",
+"Writing",
+"Users"
     ]
 }
