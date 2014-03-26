@@ -28,5 +28,7 @@ function test() {
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
 ![Example Image](project_images/book_jorgeocampo.jpg?raw=true "Example Image")
+![Example Image](project_images/3d book 01.jpg?raw=true "Example Image")
+![Example Image](project_images/3d book 02.jpg?raw=true "Example Image")
 
 https://www.youtube.com/watch?v=30yGOxJJ2PQ
