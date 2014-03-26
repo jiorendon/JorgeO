@@ -2,7 +2,6 @@
 
 ## Authors
 - Jorge Ocampo https://github.com/jiorendon 
-- Daniel Sierra
 
 ## Description
 Esta instalación propone un juego entre el libro “cubo de papel” y los dispositivos tecnológicos que transforman nuestra comprensión de la información, el intercambio de conocimiento y la relación entre el medio, el mensaje y el espectador, en pocas palabras: nuestra cultura. Con el surgimiento de la tecnología electrónica y digital se están activando otras formas de comprensión del mundo, de imaginación e interfaz que ya no se limitan al papel, otorgando a la relación de escritura y lectura, otras alternativas de interpretación que permiten ampliar nuestro espectro de percepciones. Esta propuesta de instalación, comienza a diferenciarse del libro “cubo de papel” al ampliarse al campo de la imagen en movimiento, la interacción, el diseño de interfaz y la electrónica.  
