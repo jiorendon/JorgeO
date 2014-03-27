@@ -2,6 +2,7 @@
 
 ## Authors
 - Jorge Ocampo https://github.com/jiorendon 
+- Daniel Sierra
 
 ## Description
 Esta instalación propone un juego entre el libro “cubo de papel” y los dispositivos tecnológicos que transforman nuestra comprensión de la información, el intercambio de conocimiento y la relación entre el medio, el mensaje y el espectador, en pocas palabras: nuestra cultura. Con el surgimiento de la tecnología electrónica y digital se están activando otras formas de comprensión del mundo, de imaginación e interfaz que ya no se limitan al papel, otorgando a la relación de escritura y lectura, otras alternativas de interpretación que permiten ampliar nuestro espectro de percepciones. Esta propuesta de instalación, comienza a diferenciarse del libro “cubo de papel” al ampliarse al campo de la imagen en movimiento, la interacción, el diseño de interfaz y la electrónica.  
@@ -10,18 +11,10 @@ Esta propuesta es el capitulo 3 de un libro expandido al espacio y la interacci�
 
 
 ## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
 
-[Example Link](http://www.google.com "Example Link")
+[Face Detection](https://github.com/jiorendon/JorgeO/tree/master/project_code/FaceDetection "Example Link")
 
 
-## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
-```
-function test() {
-  console.log("Printing a test");
-}
-```
 ## Links to External Libraries
 
 [OpenCV](http://ubaa.net/shared/processing/opencv/ "OpenCV") 
