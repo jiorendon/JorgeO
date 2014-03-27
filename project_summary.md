@@ -23,9 +23,12 @@ function test() {
 }
 ```
 ## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
 
-[Example Link](http://www.google.com "Example Link")
+[Example Link](http://ubaa.net/shared/processing/opencv/ "OpenCV") 
+[Example Link](http://gsvideo.sourceforge.net/ "GSVideo") 
+[Example Link](http://arduino.cc/es/Reference/Libraries#.UzOB4q15Pv0 "Arduino") 
+
+
 
 ## Description of the use and performance of the beholder:
 
