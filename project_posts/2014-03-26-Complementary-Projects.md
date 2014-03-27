@@ -1,4 +1,4 @@
-VIDEO: 
+http://youtu.be/P04q63ArNG8
 
 CAPITULO 1
 ------
