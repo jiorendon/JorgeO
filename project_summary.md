@@ -24,9 +24,11 @@ function test() {
 ```
 ## Links to External Libraries
 
-[Example Link](http://ubaa.net/shared/processing/opencv/ "OpenCV") 
-[Example Link](http://gsvideo.sourceforge.net/ "GSVideo") 
-[Example Link](http://arduino.cc/es/Reference/Libraries#.UzOB4q15Pv0 "Arduino") 
+[OpenCV](http://ubaa.net/shared/processing/opencv/ "OpenCV") 
+
+[GSVideo](http://gsvideo.sourceforge.net/ "GSVideo") 
+
+[Arduino](http://arduino.cc/es/Reference/Libraries#.UzOB4q15Pv0 "Arduino") 
 
 
 
