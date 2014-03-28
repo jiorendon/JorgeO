@@ -35,6 +35,7 @@ It is a physical book - "Cubo de Papel" - that will have a video camera inside, 
 Along with this book, there will be a video-projection of multiple overlapped faces.
 This projection will show images of faces that would have been already captured in real time with the video camera from the inside of the book.
 
+
 ![Example Image](project_images/interaction book.jpg?raw=true "Example Image")
 
 Regarding the book horizontal motion, this will be actvated by a programming code, able to detect faces. It has features able to distinguish certain color and shape patterns on the beholders, which will be systematized and stored in a base data that allows the construction of a unique and estandarized face. If the beholder does not have these physical features, the book performs a movement away from the beholder, so it constructs a conexion of clasification and order, which is indicated by a computer pattern that will react in front of the beholder, whether be it rejection, acceptance, reaction, interaction, classification, file, print, trace, writing, dialogue, among other concepts that may generate a direct link between the beholder's body and the device, in this case, the paper cube.
