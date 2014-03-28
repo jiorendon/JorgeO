@@ -9,7 +9,6 @@ Esta instalación propone un juego entre el libro “cubo de papel” y los disp
 
 Esta propuesta es el capitulo 3 de un libro expandido al espacio y la interacción. Este libro hasta ahora cuenta con 5 capítulos, todos en proceso de construcción. Los cuales aparecerán en los siguientes post como antecedentes a este proyecto. 
 
-
 ## Link to Prototype
 
 [Face Detection](https://github.com/jiorendon/JorgeO/tree/master/project_code/FaceDetection "Example Link")
