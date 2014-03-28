@@ -7,16 +7,16 @@ It is an istallation that deconstructs the book and expands it to the showroom, 
 
 ![Example Image](../project_images/palabras01.jpg?raw=true "Example Image")
 
-Cuando un lector se acerca a observar la proyección del título, las palabras comienzan a moverse y fluyen en el espacio buscando la posición del espectador para quedar superpuestas en su cuerpo. Es así como el soporte de la lectura se transforma en un soporte vivo y en constante movimiento creando una relación directa entre el papel y la piel por medio de la escritura y de la palabra.
+When a reader come near to watch the title projection, words start moving and flow into the space as they look for the beholder's location in order to get overlapped onto his/her body.
+This way the reading support becomes a live one and in continual motion, creating a direct relation between paper and skin by writing and word.
 
-CAPITULO 2
+
+CHAPTER 2
 -----
 ![Example Image](../project_images/papelpiel01.jpg?raw=true "Example Image")
 
-Es un plano que se compone de una suma de hojas de papel dispuestas de manera aleatoria. Estas hojas son aquellas páginas en blanco que traen los libros y parecieran no decir nada, son esa parte vacía sin texto, inútil que casi siempre está al inicio de la lectura.
+It is a surface that is composed by a sum of paper sheets, randomly arranged. These sheets are those pages in blank that come on books and they look like they are not in the mood for saying anything. They are empty with no text, useless, that usually appears in the beggnining of the reading.
 
-Estas hojas de papel, varían en su tamaño, color, textura, olor y dan cuenta del paso del tiempo, otorgándole a esta composición un relato implícito que cada espectador podría reinventar. Aquí la imagen se convierte en espejo e invita al lector a buscar en estos indicios de papel la información necesaria para articular el diálogo con la instalación. 
-
-Es la luz de una video-proyección y el procesamiento digital de imágenes capturadas con una cámara de video, la que hace aparecer nuestro reflejo en las múltiples hojas de papel.
+These paper sheets vary in size, color, texture, and odor, and evidence the pass of time, giving this composition an implicit story that each beholder could reinvent. Here, image turns into a mirror that invites the reader to seek the necessary information to articulate the dialogue with the installation on this paper indications.
 
 
