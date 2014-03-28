@@ -1,4 +1,4 @@
-# PALIMPSEST
+# PALIMPSEST Chapter 3
 
 ## Authors
 - Jorge Ocampo https://github.com/jiorendon 
