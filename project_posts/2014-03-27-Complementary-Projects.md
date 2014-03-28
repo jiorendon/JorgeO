@@ -1,8 +1,8 @@
 http://youtu.be/P04q63ArNG8
 
 
-CHAPTER 1
-------
+## CHAPTER 1
+
 It is an istallation that deconstructs the book and expands it to the showroom, the body and the performance.
 
 ![Example Image](../project_images/palabras01.jpg?raw=true "Example Image")
@@ -11,8 +11,8 @@ When a reader come near to watch the title projection, words start moving and fl
 This way the reading support becomes a live one and in continual motion, creating a direct relation between paper and skin by writing and word.
 
 
-CHAPTER 2
------
+## CHAPTER 2
+
 ![Example Image](../project_images/papelpiel01.jpg?raw=true "Example Image")
 
 It is a surface that is composed by a sum of paper sheets, randomly arranged. These sheets are those pages in blank that come on books and they look like they are not in the mood for saying anything. They are empty with no text, useless, that usually appears in the beggnining of the reading.
