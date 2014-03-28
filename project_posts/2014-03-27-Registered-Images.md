@@ -1,4 +1,4 @@
-Installing the book showroom to start capturing faces.
+## Installing the book showroom to start capturing faces.
 
 ![Example Image](../project_images/0006.jpg?raw=true "Example Image")
 
