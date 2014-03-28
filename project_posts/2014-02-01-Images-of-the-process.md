@@ -1,4 +1,3 @@
-Imagenes Proceso
 
 ![Example Image](../project_images/0001.jpg?raw=true "Example Image") 
 
