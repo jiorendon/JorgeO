@@ -35,6 +35,7 @@ Es un libro físico “cubo de papel” que en su interior tendrá una cámara d
 
 Acompañado de este libro irá una video-proyección con múltiples rostros superpuestos. Esta proyección mostrará los rostros que se capturaran en tiempo real con la cámara de video que estará al interior del libro. 
 
+
 ![Example Image](project_images/interaction book.jpg?raw=true "Example Image")
 
 El sistema mecánico se propone para desplazar de un lado a otro y de manera horizontal el libro. Este desplazamiento se activará a través del código que detectará rostros. Este código tendrá algunas características en su programación que distingan ciertos patrones de color y forma en los espectadores, los cuales serán sistematizados y almacenados en una base de datos que permita construir un rostro único y estandarizado. Si el espectador no tiene los rasgos físicos estandarizados en el código, el libro hace un desplazamiento para alejarse de quien lo observa, construyendo así una relación de clasificación y orden señalado por un patrón computacional el cual reaccionará frente al espectador, ya sea de rechazo, aceptación, reacción, interacción, clasificación, archivo, huella, traza, escritura, diálogo, entre otros conceptos que pueden generar una relación directa entre el cuerpo y el objeto físico, en este caso: el cubo de papel. 
