@@ -5,9 +5,11 @@
 - Daniel Sierra
 
 ## Description
-Esta instalación propone un juego entre el libro “cubo de papel” y los dispositivos tecnológicos que transforman nuestra comprensión de la información, el intercambio de conocimiento y la relación entre el medio, el mensaje y el espectador, en pocas palabras: nuestra cultura. Con el surgimiento de la tecnología electrónica y digital se están activando otras formas de comprensión del mundo, de imaginación e interfaz que ya no se limitan al papel, otorgando a la relación de escritura y lectura, otras alternativas de interpretación que permiten ampliar nuestro espectro de percepciones. Esta propuesta de instalación, comienza a diferenciarse del libro “cubo de papel” al ampliarse al campo de la imagen en movimiento, la interacción, el diseño de interfaz y la electrónica.  
+This installation proposes a game between the book - "Cubo de Papel” - (Paper Cube) and the technological devices that transform our comprehension of information, the information exchange and the relationship among the means, the message and the beholder, so to speak: culture. With the electronic and digital technology emerging, other ways of world comprehension are being activated, therefore, the relationship between reading and writing is being given different alternatives for interpretation, which allow an enlargement of our perception field. 
 
-Esta propuesta es el capitulo 3 de un libro expandido al espacio y la interacción. Este libro hasta ahora cuenta con 5 capítulos, todos en proceso de construcción. Los cuales aparecerán en los siguientes post como antecedentes a este proyecto. 
+This installation proposal starts being differentiated from the book - "Cubo de Papel" - by being amplified to the motion image field, interaction, interface desigh and electronics.
+ 
+This proposal is the chapter 3 from a book, expanded to the environment and interaction. This book has been made 5 chapters so far, all of them underconstrution, which will appear in future posts as previous facts to this project.
 
 ## Link to Prototype
 
@@ -27,17 +29,15 @@ Esta propuesta es el capitulo 3 de un libro expandido al espacio y la interacci�
 
 http://www.youtube.com/watch?v=bhHFzNp4Y6E&list=UUkX5myS7KLt96y7CHZswEqw&feature=share&index=1
 
-Es un libro físico “cubo de papel” que en su interior tendrá una cámara de video que se encargará de registrar e identificar los patrones físicos de los espectadores. También tendrá una estructura mecánica que controlará el desplazamiento del libro por un riel de manera horizontal.
+It is a physical book - "Cubo de Papel" - that will have a video camera inside, which will capture the beholders' physical features. It will also have a mechanical structure that will control the horizontal movement of the book on a rail, from left to right and the other way around.
 
 ![Example Image](project_images/book_jorgeocampo.jpg?raw=true "Example Image")
 
-Acompañado de este libro irá una video-proyección con múltiples rostros superpuestos. Esta proyección mostrará los rostros que se capturaran en tiempo real con la cámara de video que estará al interior del libro. 
-
+Along with this book, there will be a video-projection of multiple overlapped faces.
+This projection will show images of faces that would have been already captured in real time with the video camera from the inside of the book.
 
 ![Example Image](project_images/interaction book.jpg?raw=true "Example Image")
 
-El sistema mecánico se propone para desplazar de un lado a otro y de manera horizontal el libro. Este desplazamiento se activará a través del código que detectará rostros. Este código tendrá algunas características en su programación que distingan ciertos patrones de color y forma en los espectadores, los cuales serán sistematizados y almacenados en una base de datos que permita construir un rostro único y estandarizado. Si el espectador no tiene los rasgos físicos estandarizados en el código, el libro hace un desplazamiento para alejarse de quien lo observa, construyendo así una relación de clasificación y orden señalado por un patrón computacional el cual reaccionará frente al espectador, ya sea de rechazo, aceptación, reacción, interacción, clasificación, archivo, huella, traza, escritura, diálogo, entre otros conceptos que pueden generar una relación directa entre el cuerpo y el objeto físico, en este caso: el cubo de papel. 
-
-
+Regarding the book horizontal motion, this will be actvated by a programming code, able to detect faces. It has features able to distinguish certain color and shape patterns on the beholders, which will be systematized and stored in a base data that allows the construction of a unique and estandarized face. If the beholder does not have these physical features, the book performs a movement away from the beholder, so it constructs a conexion of clasification and order, which is indicated by a computer pattern that will react in front of the beholder, whether be it rejection, acceptance, reaction, interaction, classification, file, print, trace, writing, dialogue, among other concepts that may generate a direct link between the beholder's body and the device, in this case, the paper cube.
 
 
