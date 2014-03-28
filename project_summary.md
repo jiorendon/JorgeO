@@ -24,7 +24,6 @@ This proposal is the chapter 3 from a book, expanded to the environment and inte
 
 [Arduino](http://arduino.cc/es/Reference/Libraries#.UzOB4q15Pv0 "Arduino") 
 
-
 ## Description of the use and performance of the beholder:
 
 http://www.youtube.com/watch?v=bhHFzNp4Y6E&list=UUkX5myS7KLt96y7CHZswEqw&feature=share&index=1
