@@ -1,9 +1,9 @@
 http://youtu.be/P04q63ArNG8
 
 
-CAPITULO 1
+CHAPTER 1
 ------
-Es una instalación que de-construye el libro y lo expande al espacio, al cuerpo a la acción.
+It is an istallation that deconstructs the book and expands it to the showroom, the body and the performance.
 
 ![Example Image](../project_images/palabras01.jpg?raw=true "Example Image")
 
