@@ -19,3 +19,4 @@ Estas hojas de papel, varían en su tamaño, color, textura, olor y dan cuenta d
 
 Es la luz de una video-proyección y el procesamiento digital de imágenes capturadas con una cámara de video, la que hace aparecer nuestro reflejo en las múltiples hojas de papel.
 
+
